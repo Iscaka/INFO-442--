@@ -42,7 +42,13 @@ This project is developed as part of the INFO 442 Data Science Project at Drexel
 
 ### Project Structure
 
-undetermined
+```
+project/
+├── data/                   # Original and processed dataset files
+├── notebooks/              # Jupyter notebook files
+├── docs/                   # Project documentation
+└── README.md               # This file
+```
 
 
 ### Prerequisites
@@ -50,24 +56,3 @@ undetermined
 - Git
 
 
-### Methodology
-
-#### 1.Exploratory Data Analysis
-- Data quality assessment and cleaning
-- Statistical summary and correlation analysis
-- meaningful visualizations exploring gaming-academic relationships
-
-#### 2.Model Development
-**Model Comparison Strategy:**
-undetermined
-
-#### 3.Evaluation & Visualization
-- Accuracy, Precision, Recall, F1,...
-- High-risk student identification rate
-- Stakeholder-friendly visualizations for parents/educators
-
-### Expected Outcomes
-
-1. **Quantitative Insights**: Threshold values for harmful gaming durations
-2. **Predictive Models**: Student performance classification
-3. **Visualization Suite**: Interactive charts explaining key findings
